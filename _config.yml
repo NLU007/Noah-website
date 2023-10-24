@@ -36,6 +36,14 @@ paginate_path: blog/page:num
 navigation_header:
 - title: Home
   url: /
+- title: Chess
+  url: /chess/
+- title: Biology
+  url: /biology/
+- title: Soccer
+  url: /soccer/
+- title: School Services
+  url: /school-services/
 - title: About
   url: /about/
 - title: Blog

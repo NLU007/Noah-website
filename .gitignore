@@ -1,2 +1,4 @@
 .jekyll-cache/
 _site/
+Gemfile.lock
+_config_dev.yml
