@@ -12,14 +12,14 @@ Page 1 ADMCF
 
 In my seventh-grade science class, we did a unit on ecosystems. For my final project, I researched the kelp forest and learned about the many animals and species that lived in that ecosystem and found it interesting. I wanted to learn more about biodiversity and the different species on our planet. With the help of my family, we came across this environmental foundation called ADMCF that dealt with biodiversity and the protection of animals. They needed some help in cataloging some of the endangered animals so I volunteered to help them do research and catalog for them.
 
-## What is ADMCF
+### What is ADMCF
 
 ADMCF stands for ADM Capital Foundation, the environmental foundation mainly focuses on five types of environmental problems: water management and protection; facilitating and protecting marine biodiversity; helping align Hong Kong towards long term carbon neutrality; changing our financing to better protect forests biodiversity; and working on protecting both terrestrial and marine biodiversity by monitoring all wildlife trade in threatened species in Asia. The overall goal is to change the way we live and to protect the environment for future generations. 
 
-## Wildlife Trade in Hong Kong
+### Wildlife Trade in Hong Kong
 Hong Kong is the biggest hub for wildlife trading. Between 2013-2019, more than HK$767 million worth of trafficked wildlife were seized in Hong Kong. What is wildlife trading, you may ask. Wildlife trade is taking or selling dead or live animals or plants. Some of this is legal while others werent. The biggest reason why the illegal wildlife trade is so big is that it is a “low risk, high reward” situation. This is partially because of the low detection risk and the low consequences of being caught. There was a case where a person was found smuggling three pieces of rhino horn into Hong Kong in a chocolate box. The horns were worth more than HK$500,000 (63,988.95 $USD), yet the man was only given a one-month prison sentence.
 
-## What am I doing for ADMCF
+### What am I doing for ADMCF
 During my time at ADMCF, I had to research endangered animals and write down specific information about them in a slide. Following a list of species that ADMCF had provided, I looked up their population numbers, their habitats, use and trade, threats to their species, weight, lifespan, and, if available, fun facts. They told me that I didn't have to finish the entire list, and “to do as much as I can.” By the end of the summer, I had finished a total of 44 species. 
 
 
@@ -28,14 +28,14 @@ Out of all of the animals I researched, my favorite was the alligator snapping t
 
 The alligator snapping turtle is popular in the wildlife trade, this is due to their demand from China, as turtles are a symbol of longevity. A scary fact is that from 2011 to 2021 a total of 170,000 snapping turtles and 90,000 alligator snapping turtles were imported from the United States to Hong Kong. This caused a big problem as the vendors were selling the baby versions at a cheap price(around 3 USD), which meant they looked tiny and cute. These turtles would then end up in homes way smaller than their ideal habitat and as they grow to their gigantic size, would wreak havoc in the households. Finally, the owners would have nowhere to put them and would eventually just get rid of them. The turtles would end up in random places like being tangled up in scaffolding at San Po Kong (this actually happened on June 21st, 2023), and rescuers would have no way of getting them out because of their bite force. This is just one example of the many species in the Hong Kong illegal wildlife trade. 
 
-## How this is going to help ADMCF
+### How this is going to help ADMCF
 
 My research will help ADMCF monitor and control the wildlife trade. ADMCF is going to use my research and put it into a report. They will then send that to lobby the government who will hopefully change the rules regarding the trade, and make them tighter. This is good because it helps restrict the trade and protect more wildlife and maintain biodiversity in a variety of ecosystems. They will also use some of the fun facts that I found to raise public awareness and interest in the topic. 
 
 
 
 
-## Reflection 
+### Reflection 
 
 In the past 2 months I have completed 44 species and I have learned quite a few things from this program. The main takeaway I have is that a lot of critical details are missing such as their use and trade, they would also mysteriously disappear after reaching Hong Kong, etc. This is a huge problem as we don't know what happens to these animals after they get imported into Hong Kong. This could lead to many weird or dangerous encounters such as the time a 2 meter long crocodile was found in someone's yard in New Territories. I am thankful to have helped the ADMCF in their goal, and am very proud to help protect many animals.
 
