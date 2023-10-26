@@ -12,6 +12,9 @@ Page 1 ADMCF
 
 In my seventh-grade science class, we did a unit on ecosystems. For my final project, I researched the kelp forest and learned about the many animals and species that lived in that ecosystem and found it interesting. I wanted to learn more about biodiversity and the different species on our planet. With the help of my family, we came across this environmental foundation called ADMCF that dealt with biodiversity and the protection of animals. They needed some help in cataloging some of the endangered animals so I volunteered to help them do research and catalog for them.
 
+![Snapping Turtles Statistics](../photos/admcf001.jpg){:height="36px"}
+
+
 ### What is ADMCF
 
 ADMCF stands for ADM Capital Foundation, the environmental foundation mainly focuses on five types of environmental problems: water management and protection; facilitating and protecting marine biodiversity; helping align Hong Kong towards long term carbon neutrality; changing our financing to better protect forests biodiversity; and working on protecting both terrestrial and marine biodiversity by monitoring all wildlife trade in threatened species in Asia. The overall goal is to change the way we live and to protect the environment for future generations. 
