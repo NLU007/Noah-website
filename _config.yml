@@ -42,12 +42,18 @@ navigation_header:
   url: /biology/
 - title: Soccer
   url: /soccer/
-- title: School Services
-  url: /school-services/
+- title: Other Sports
+  url: /other%20sports/
+- title: Music
+  url: /music/
+- title: Student Ambassador
+  url: /student%20ambassador/
+- title: UWC Summer Boarding School
+  url: /UWC/
 - title: About
   url: /about/
-- title: Blog
-  url: /blog/
+
+
 
 # Footer nav
 navigation_footer:
