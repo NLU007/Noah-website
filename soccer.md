@@ -8,19 +8,36 @@ feature_text: |
 ### My Passion for Soccer
 
 <div class="row">
-  <div class="column">
-    <img src="/photos/soccer003.jpg">
+  <div class="column" style="width: 50%;">
+    <img src="/photos/soccer001.jpg">
   </div>
-  <div class="column">
-    <img src="/photos/soccer001.JPG">
+  <div class="column" style="width: 50%;">
     <img src="/photos/soccer002.jpg">
-  </div>
-  <div class="column">
-    <img src="/photos/soccer004.jpg">
   </div>
 </div>
 
-When I was just 2 years old, my parents introduced me to various sports in order to promote a healthy lifestyle and help me discover a hobby. It was during this exploration that I discovered my talent and passion for soccer. I quickly realized that I not only excelled at the sport, but I also found immense joy in playing as part of a team. The exhilaration of winning and the  efforts with my teammates became an integral part of my soccer journey. Ever since that great discovery, I have dedicated myself to the sport, consistently playing three times a week for the past 11 years. Soccer has become my main sport as it has become an integral part of my identity and a source of constant joy and fulfillment.
+<div class="row">
+  <div class="column" style="width: 60%;">
+    <p>
+    When I was just 2 years old, my parents introduced me to various sports in order to promote a healthy lifestyle and help me discover a hobby. It was during this exploration that I discovered my talent and passion for soccer. I quickly realized that I not only excelled at the sport, but I also found immense joy in playing as part of a team. 
+    </p>
+  </div>
+  <div class="column">
+    <img src="/photos/soccer003.jpg">
+  </div>
+</div>
+
+
+<div class="row">
+  <div class="column">
+    <img src="/photos/soccer004.jpg">
+  </div>
+  <div class="column" style="width: 60%;">
+  <p>
+  The exhilaration of winning and the  efforts with my teammates became an integral part of my soccer journey. Ever since that great discovery, I have dedicated myself to the sport, consistently playing three times a week for the past 11 years. Soccer has become my main sport as it has become an integral part of my identity and a source of constant joy and fulfillment.
+  </p>
+  </div>
+</div>
 
 ### Experience and Achievements as a Soccer Player
 
