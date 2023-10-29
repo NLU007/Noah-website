@@ -34,7 +34,7 @@ paginate_path: blog/page:num
 
 # Header nav
 navigation_header:
-- title: Home
+- title: About Me
   url: /
 - title: Chess
   url: /chess/
@@ -42,18 +42,12 @@ navigation_header:
   url: /biology/
 - title: Soccer
   url: /soccer/
-- title: Other Sports
-  url: /other%20sports/
-- title: Music
-  url: /music/
 - title: Student Ambassador
   url: /student%20ambassador/
 - title: UWC Summer Boarding School
   url: /UWC/
-- title: About
-  url: /about/
-
-
+- title: Music
+  url: /music/
 
 # Footer nav
 navigation_footer:
