@@ -9,7 +9,7 @@ feature_text: |
 
 <div class="row">
   <div class="column">
-    <img src="/photos/soccer001.jpg" style="width:100%">
+    <img src="/photos/soccer001.JPG" style="width:100%">
   </div>
   <div class="column">
     <img src="/photos/soccer002.jpg" style="width:100%">
