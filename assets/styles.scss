@@ -1,7 +1,9 @@
 ---
+title: false
+styles: true
 ---
 
-@import "{{ site.theme }}";
+@import "alembic";
 
 /* Three image containers (use 25% for four, and 50% for two, etc) */
 .column {

@@ -9,13 +9,11 @@ feature_text: |
 
 <div class="row">
   <div class="column">
-    <img src="/photos/soccer001.JPG" style="width:100%">
+    <img src="/photos/soccer001.JPG">
+    <img src="/photos/soccer002.jpg">
   </div>
   <div class="column">
-    <img src="/photos/soccer002.jpg" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="/photos/soccer003.jpg" style="width:100%">
+    <img src="/photos/soccer003.jpg">
   </div>
 </div>
 
@@ -24,9 +22,10 @@ When I was just 2 years old, my parents introduced me to various sports in order
 ### Experience and Achievements as a Soccer Player
 
 I have had the privilege of being a part of three remarkable soccer clubs throughout my journey:
-   1. [Adventure Sports Academy](https://www.adventuresportsacademy.com/)
-   2. [ChelseaFC in HK](https://chelseafchk.com/)
-   3. [Tai Tam Tigers](https://www.hkis.edu.hk/activities-arts-athletics/sports-academies/soccer-academy) (currently)
+
+1. [Adventure Sports Academy](https://www.adventuresportsacademy.com/)
+2. [ChelseaFC in HK](https://chelseafchk.com/)
+3. [Tai Tam Tigers](https://www.hkis.edu.hk/activities-arts-athletics/sports-academies/soccer-academy) (currently)
 
 One of the highlights of my soccer experience was the opportunity to travel with my team to Bangkok for a highly competitive tournament. It was an incredible experience that broadened my horizons and allowed me to try some of my skills on an international stage.
 
