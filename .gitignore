@@ -1,4 +1,4 @@
-.jekyll-cache/
-_site/
+_site
+.sass-cache
+.jekyll-metadata
 Gemfile.lock
-_config_dev.yml
