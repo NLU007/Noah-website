@@ -1,8 +1,10 @@
 main:
+  - title: "ADMCF"
+    url: /admcf/
+  - title: "Eye Center"
+    url: /eyecenter/
   - title: "Chess"
     url: /chess/
-  - title: "Biology"
-    url: /biology/
   - title: "Soccer"
     url: /soccer/
   - title: "Student Ambassador"
