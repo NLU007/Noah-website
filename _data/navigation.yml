@@ -1,12 +1,13 @@
 main:
-  - title: "Splash"
-    url: /splash/
-  # - title: "Posts"
-  #   url: /posts/
-  # - title: "Categories"
-  #   url: /categories/
-  # - title: "Tags"
-  #   url: /tags/
-  - title: "About"
-    url: /about/
-
+  - title: "Chess"
+    url: /chess/
+  - title: "Biology"
+    url: /biology/
+  - title: "Soccer"
+    url: /soccer/
+  - title: "Student Ambassador"
+    url: /ambassador/
+  - title: "Summer School & Camp"
+    url: /summer/
+  - title: "Music"
+    url: /music/
