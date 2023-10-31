@@ -29,7 +29,7 @@ title: "Soccer"
 
 <div class="row">
   <div class="column" style="width: 50%;">
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/soccer001.JPG">
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/soccer001.jpg">
   </div>
   <div class="column" style="width: 50%;">
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/soccer002.jpg">
