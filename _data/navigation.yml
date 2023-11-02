@@ -1,8 +1,10 @@
 main:
-  - title: "ADMCF"
-    url: /admcf/
-  - title: "Eye Center"
-    url: /eyecenter/
+  - title: "Biology"
+    sublinks:
+      - title: "ADMCF"
+        url: /admcf/
+      - title: "Eye Center"
+        url: /eyecenter/
   - title: "Chess"
     url: /chess/
   - title: "Soccer"
