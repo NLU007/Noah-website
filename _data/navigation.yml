@@ -3,7 +3,7 @@ main:
     sublinks:
       - title: "ADMCF"
         url: /admcf/
-      - title: "Eye Center"
+      - title: "HKU Eye Center"
         url: /eyecenter/
   - title: "Chess"
     url: /chess/
