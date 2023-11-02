@@ -240,7 +240,7 @@
 
 .feature__wrapper {
   @include clearfix();
-  margin-bottom: 2em;
+  margin-bottom: 0;
   border-bottom: 1px solid $border-color;
 
   .archive__item-title {
@@ -250,25 +250,21 @@
 
 .feature__item {
   position: relative;
+  padding: 2em;
   margin-bottom: 2em;
   font-size: 1.125em;
 
   @include breakpoint($small) {
     float: left;
     margin-bottom: 0;
-    width: span(4 of 12);
+    width: span(6 of 12);
 
-    &:nth-child(3n + 1) {
+    &:nth-child(2n + 1) {
       clear: both;
       margin-left: 0;
     }
 
-    &:nth-child(3n + 2) {
-      clear: none;
-      margin-left: gutter(of 12);
-    }
-
-    &:nth-child(3n + 3) {
+    &:nth-child(2n + 2) {
       clear: none;
       margin-left: gutter(of 12);
     }

@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: splash2
 permalink: /
 hidden: true
 header:
@@ -8,10 +8,13 @@ header:
 excerpt: >
   A grade 8 student who is interested in biology, chess, and soccer.
 
-biology: 
-  - excerpt: '# Biology'
-feature_row:
-  - excerpt: 'I have always been interested in the sciences, specifically biology. I thought I liked everything about biology but it wasn’t until...'
+row1: 
+  - excerpt: >
+      # Biology
+    
+      I have always been interested in the sciences, specifically biology. I thought I liked everything about biology but it wasn’t until...
+
+row2:
   - image_path: /assets/images/admcf.jpg
     alt: "ADMCF"
     title: "ADMCF"
@@ -26,14 +29,14 @@ feature_row:
     url: "/eyecenter/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-other: 
-  - excerpt: '# Other Hobbies' 
-feature_row2:
+row3: 
+  - excerpt: '# Extra-Curricular Activities' 
+row4:
   - image_path: /assets/images/chess.jpg
     alt: "chess"
     title: "Chess"
     excerpt: "My achievements in chess"
-    url: "/chess"
+    url: "/chess/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /assets/images/soccer.jpg
@@ -43,18 +46,19 @@ feature_row2:
     url: "/soccer/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-  - image_path: /assets/images/music.jpg
-    alt: "music"
-    title: "Music"
-    excerpt: "My band"
-    url: "/music/"
+row5:
+  - image_path: /assets/images/chess.jpg
+    alt: "Student Ambassador"
+    title: "Student Ambassador"
+    excerpt: "My contribution at school"
+    url: "/ambassador/"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+  - image_path: /assets/images/summer.jpg
+    alt: "Summer Boarding School & Camp"
+    title: "Summer Boarding School & Camp"
+    excerpt: "Summer Boarding School & Camp"
+    url: "/summer/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
 ---
-{% include feature_row id="biology" %}
-
-{% include feature_row %}
-
-{% include feature_row id="other" %}
-
-{% include feature_row id="feature_row2" %}
