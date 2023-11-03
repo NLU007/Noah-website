@@ -6,7 +6,7 @@ header:
   show_overlay_excerpt: true
 ---
 
-In my seventh-grade science class, we did a unit on ecosystems. For my final project, I researched the kelp forest and learned about the many animals and species that lived in that ecosystem and found it interesting. I wanted to learn more about biodiversity and the different species on our planet. With the help of my family, we came across this environmental foundation called ADMCF that dealt with biodiversity and the protection of animals. They needed some help in cataloging some of the endangered animals so I volunteered to help them do research and catalog for them.
+In my seventh-grade science class, we did a unit on ecosystems. For my final project, I researched the kelp forest and learned about the many animals and species that lived in that ecosystem and found it interesting. I wanted to learn more about biodiversity and the different species on our planet. With the help of my family, we came across this environmental foundation called [ADMCF](https://www.admcf.org/) that dealt with biodiversity and the protection of animals. They needed some help in cataloging some of the endangered animals so I volunteered to help them do research and catalog for them.
 
 ## What is ADMCF
 
@@ -14,7 +14,7 @@ ADMCF stands for ADM Capital Foundation, the environmental foundation mainly foc
 
 ## Wildlife Trade in Hong Kong
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/admcf004.jpg){:width="50%" .align-center}
+![Big Turtle]({{ site.url }}{{ site.baseurl }}/assets/images/admcf004.jpg){:width="50%" .align-center}
 
 <!-- <figure style="height: 36px" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/admcf004.jpg" alt="">
@@ -35,7 +35,8 @@ The alligator snapping turtle is popular in the wildlife trade, this is due to t
 
 ![Snapping Turtles Statistics]({{ site.url }}{{ site.baseurl }}/assets/images/admcf001.jpg){:width="90%" .align-center}
 
-This caused a big problem as the vendors were selling the baby versions at a cheap price(around 3 USD), which meant they looked tiny and cute. These turtles would then end up in homes way smaller than their ideal habitat and as they grow to their gigantic size, would wreak havoc in the households. Finally, the owners would have nowhere to put them and would eventually just get rid of them. The turtles would end up in random places like being tangled up in scaffolding at San Po Kong (this actually happened on June 21st, 2023), and rescuers would have no way of getting them out because of their bite force. This is just one example of the many species in the Hong Kong illegal wildlife trade. 
+This caused a big problem as the vendors were selling the baby versions at a cheap price(around 3 USD), which meant they looked tiny and cute. These turtles would then end up in homes way smaller than their ideal habitat and as they grow to their gigantic size, would wreak havoc in the households. Finally, the owners would have nowhere to put them and would eventually just get rid of them. The turtles would end up in random places like being tangled up in scaffolding at San Po Kong (this actually happened on June 21st, 2023), and rescuers would have no way of getting them out because of their bite force. This is just one example of the many species in the Hong Kong illegal wildlife trade.
+
 ![big turtle]({{ site.url }}{{ site.baseurl }}/assets/images/admcf005.jpg){:width="80%" .align-center}
 
 ## How this is going to help ADMCF
