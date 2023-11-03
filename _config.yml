@@ -16,9 +16,7 @@
 title: Noah Lu
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Hi, welcome to my website: I am Noah Lu, a grade 8 student at HKIS. Currently, I am interested in biology, soccer, and chess. feel free to look around! :D
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: mint
@@ -60,7 +58,7 @@ plugins:
 author:
   name   : "Noah Lu"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Hi, welcome to my website: I am Noah Lu, a grade 8 student at HKIS. Currently, I am interested in biology, soccer, and chess. feel free to look around! :D"
   # links:
   #   - label: "Website"
   #     icon: "fas fa-fw fa-link"
