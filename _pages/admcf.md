@@ -1,6 +1,9 @@
 ---
 permalink: /admcf/
 title: "ADM Capital Foundation (ADMCF)"
+header:
+  image: /assets/images/admcf-cover.jpg
+  show_overlay_excerpt: true
 ---
 
 In my seventh-grade science class, we did a unit on ecosystems. For my final project, I researched the kelp forest and learned about the many animals and species that lived in that ecosystem and found it interesting. I wanted to learn more about biodiversity and the different species on our planet. With the help of my family, we came across this environmental foundation called ADMCF that dealt with biodiversity and the protection of animals. They needed some help in cataloging some of the endangered animals so I volunteered to help them do research and catalog for them.
