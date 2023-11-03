@@ -19,7 +19,7 @@ row2:
     alt: "ADMCF"
     title: "ADMCF"
     excerpt: "My voluntary work at ADM Capital Foundation (ADMCF)"
-    url: "/admcd/"
+    url: "/admcf/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /assets/images/eyecenter.jpg
