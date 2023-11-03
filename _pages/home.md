@@ -47,7 +47,7 @@ row4:
     btn_label: "Read More"
     btn_class: "btn--inverse"
 row5:
-  - image_path: /assets/images/chess.jpg
+  - image_path: /assets/images/ambassador.jpg
     alt: "Student Ambassador"
     title: "Student Ambassador"
     excerpt: "My contribution at school"
