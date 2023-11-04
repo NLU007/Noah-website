@@ -1,5 +1,5 @@
 ---
-permalink: /hku/
+permalink: /eyecenter/
 title: "University of Hong Kong Eye Center"
 ---
 

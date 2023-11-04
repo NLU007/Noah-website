@@ -6,7 +6,7 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/cover.jpg
 excerpt: >
-  Hi, welcome to my website: I am Noah Lu, a grade 8 student at HKIS. Currently, I am interested in biology, soccer, and chess. feel free to look around! :D
+  Hi, welcome to my website: I am Noah Lu, a grade 8 student at HKIS. Currently, I am interested in biology, soccer, and chess. Feel free to look around! :D
 
 row1: 
   - excerpt: >
