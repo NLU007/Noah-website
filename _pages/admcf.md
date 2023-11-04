@@ -28,9 +28,8 @@ During my time at ADMCF, I had to research endangered animals and write down spe
 <figure style="width: 100%" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/admcf-highvolume.jpg" alt="High Volume Species Statistics">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/admcf-lowvolume.jpg" alt="Low Volume Species Statistics">
-  <figcaption>Data of smuggled species in Hong Kong.</figcaption>
+  <figcaption>Data of wildlife species in Hong Kong.</figcaption>
 </figure>
-
 
 <figure style="width: 30%" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/admcf003.jpg" alt="Baby Turtle">
