@@ -14,12 +14,10 @@ ADMCF stands for ADM Capital Foundation, the environmental foundation mainly foc
 
 ## Wildlife Trade in Hong Kong
 
-![Big Turtle]({{ site.url }}{{ site.baseurl }}/assets/images/admcf004.jpg){:width="50%" .align-center}
-
-<!-- <figure style="height: 36px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/admcf004.jpg" alt="">
-  <figcaption>big turtle</figcaption>
-</figure>  -->
+<figure style="width: 30%" class="align-right">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/admcf004.jpg" alt="Big Turtle">
+  <figcaption>Adult Alligator Snapping Turtle.</figcaption>
+</figure>
 
 Hong Kong is the biggest hub for wildlife trading. Between 2013-2019, more than HK$767 million worth of trafficked wildlife were seized in Hong Kong. What is wildlife trading, you may ask. Wildlife trade is taking or selling dead or live animals or plants. Some of this is legal while others werent. The biggest reason why the illegal wildlife trade is so big is that it is a “low risk, high reward” situation. This is partially because of the low detection risk and the low consequences of being caught. There was a case where a person was found smuggling three pieces of rhino horn into Hong Kong in a chocolate box. The horns were worth more than HK$500,000 (63,988.95 $USD), yet the man was only given a one-month prison sentence.
 
@@ -27,17 +25,29 @@ Hong Kong is the biggest hub for wildlife trading. Between 2013-2019, more than 
 
 During my time at ADMCF, I had to research endangered animals and write down specific information about them in a slide. Following a list of species that ADMCF had provided, I looked up their population numbers, their habitats, use and trade, threats to their species, weight, lifespan, and, if available, fun facts. They told me that I didn't have to finish the entire list, and “to do as much as I can.” By the end of the summer, I had finished a total of 44 species.
 
+<figure style="width: 100%" class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/admcf-highvolume.jpg" alt="High Volume Species Statistics">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/admcf-lowvolume.jpg" alt="Low Volume Species Statistics">
+  <figcaption>Data of smuggled species in Hong Kong.</figcaption>
+</figure>
+
+
+<figure style="width: 30%" class="align-left">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/admcf003.jpg" alt="Baby Turtle">
+  <figcaption>Baby Alligator Snapping Turtle.</figcaption>
+</figure>
+
 Out of all of the animals I researched, my favorite was the alligator snapping turtle because of its cool, sharp looks. The alligator snapping turtle is a prehistoric, dinosaur-looking turtle whose main habitat is in bodies of water that flow into the Gulf of Mexico. This creature starts out no bigger than 1.5 inches( 3.8 cm). However, they grow to about 29 inches in length (73.6cm). As the name suggests the snapping turtle snaps and its snap is very dangerous as it uses 210 newtons of force and can bite someone's finger off.
 
-![small turtle]({{ site.url }}{{ site.baseurl }}/assets/images/admcf003.jpg){:width="50%" .align-center}
+<figure style="width: 40%" class="align-right">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/admcf001.jpg" alt="Snapping Turtles Statistics">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/admcf005.jpg" alt="Snapping Turtles News">
+</figure>
 
 The alligator snapping turtle is popular in the wildlife trade, this is due to their demand from China, as turtles are a symbol of longevity. A scary fact is that from 2011 to 2021 a total of 170,000 snapping turtles and 90,000 alligator snapping turtles were imported from the United States to Hong Kong.
 
-![Snapping Turtles Statistics]({{ site.url }}{{ site.baseurl }}/assets/images/admcf001.jpg){:width="90%" .align-center}
-
 This caused a big problem as the vendors were selling the baby versions at a cheap price(around 3 USD), which meant they looked tiny and cute. These turtles would then end up in homes way smaller than their ideal habitat and as they grow to their gigantic size, would wreak havoc in the households. Finally, the owners would have nowhere to put them and would eventually just get rid of them. The turtles would end up in random places like being tangled up in scaffolding at San Po Kong (this actually happened on June 21st, 2023), and rescuers would have no way of getting them out because of their bite force. This is just one example of the many species in the Hong Kong illegal wildlife trade.
 
-![big turtle]({{ site.url }}{{ site.baseurl }}/assets/images/admcf005.jpg){:width="80%" .align-center}
 
 ## How this is going to help ADMCF
 
