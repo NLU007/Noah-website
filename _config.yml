@@ -16,7 +16,7 @@
 title: Noah Lu
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Hi, welcome to my website: I am Noah Lu, a grade 8 student at HKIS. Currently, I am interested in biology, soccer, and chess. feel free to look around! :D
+  Hi, welcome to my website: I am Noah Lu, a grade 8 student at HKIS. Currently, I am interested in biology, soccer, and chess. Feel free to look around! :D
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: mint
@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Noah Lu"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Hi, welcome to my website: I am Noah Lu, a grade 8 student at HKIS. Currently, I am interested in biology, soccer, and chess. feel free to look around! :D"
+  bio    : "Hi, welcome to my website: I am Noah Lu, a grade 8 student at HKIS. Currently, I am interested in biology, soccer, and chess. Feel free to look around! :D"
   # links:
   #   - label: "Website"
   #     icon: "fas fa-fw fa-link"
