@@ -1,6 +1,8 @@
 ---
 permalink: /soccer/
 title: "Soccer"
+header:
+  image: /assets/images/soccer-cover.jpg
 ---
 
 ## My Passion for Soccer
