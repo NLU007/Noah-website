@@ -41,8 +41,7 @@ During my time at ADMCF, I had to research endangered animals and write down spe
   <figcaption>Adult Alligator Snapping Turtle.</figcaption>
 </figure>
 
-Out of all of the animals I researched, my favorite was the alligator snapping turtle because of its cool, sharp looks. The alligator snapping turtle is a prehistoric, dinosaur-looking turtle whose main habitat is in bodies of water that flow into the Gulf of Mexico. 
-This creature starts out no bigger than 1.5 inches( 3.8 cm). However, they grow to about 29 inches in length (73.6cm). As the name suggests the snapping turtle snaps and its snap is very dangerous as it uses 210 newtons of force and can bite someone's finger off.
+Out of all of the animals I researched, my favorite was the alligator snapping turtle because of its cool, sharp looks. The alligator snapping turtle is a prehistoric, dinosaur-looking turtle whose main habitat is in bodies of water that flow into the Gulf of Mexico. This creature starts out no bigger than 1.5 inches( 3.8 cm). However, they grow to about 29 inches in length (73.6cm). As the name suggests the snapping turtle snaps and its snap is very dangerous as it uses 210 newtons of force and can bite someone's finger off.
 
 The alligator snapping turtle is popular in the wildlife trade, this is due to their demand from China, as turtles are a symbol of longevity. A scary fact is that from 2011 to 2021 a total of 170,000 snapping turtles and 90,000 alligator snapping turtles were imported from the United States to Hong Kong.
 

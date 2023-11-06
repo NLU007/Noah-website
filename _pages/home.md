@@ -24,9 +24,9 @@ row2:
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /assets/images/eyecenter.jpg
-    alt: "HKU Eye Center"
-    title: "HKU Eye Center"
-    excerpt: "Last summer, I also got to intern at the University of Hong Kong (HKU) Eye Center. I shadowed an optometrist in the charity clinic and I visited the lab to learn more about the research behind the leading cause of blindness - glaucoma."
+    alt: "HKU Eye Centre"
+    title: "HKU Eye Centre"
+    excerpt: "Last summer, I also got to intern at the University of Hong Kong (HKU) Eye Centre. I shadowed an optometrist in the charity clinic and I visited the lab to learn more about the research behind the leading cause of blindness - glaucoma."
     url: "/eyecenter/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
