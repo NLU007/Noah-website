@@ -52,7 +52,7 @@ row5:
   - image_path: /assets/images/ambassador.jpg
     alt: "Student Ambassador"
     title: "Student Ambassador"
-    excerpt: "I recently got selected as student ambassador for HKIS and I have been able to tour many parents."
+    excerpt: "I recently got selected as student ambassador for HKIS. As a representative for the school I gave tours to perspective parents and new students."
     url: "/ambassador/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
