@@ -5,7 +5,7 @@ header:
   image: /assets/images/soccer-cover.jpg
 ---
 
-## My Passion for Soccer
+## Soccer
 
 <div class="row">
   <div class="column" style="width: 60%;">
