@@ -1,6 +1,6 @@
 ---
 permalink: /summer/
-title: "Summer Boarding Schoool and Camp"
+title: "Summer Boarding School and Camp"
 header:
   image: /assets/images/summer-cover.jpg
 ---
