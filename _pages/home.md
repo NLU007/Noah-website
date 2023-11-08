@@ -27,7 +27,7 @@ row2:
     alt: "HKU Eye Centre"
     title: "HKU Eye Centre"
     excerpt: "Last summer, I also got to intern at the University of Hong Kong (HKU) Eye Centre. I shadowed an optometrist in the charity clinic and I visited the lab to learn more about the research behind the leading cause of blindness - glaucoma."
-    url: "/eyecenter/"
+    url: "/eyecentre/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
 row3: 
